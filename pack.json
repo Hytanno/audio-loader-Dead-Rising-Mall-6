@@ -1,0 +1,10 @@
+{
+  "name": "Deadrising Mall Music 6",
+  "description": "Mall Music Ambiant.",
+  "author": "Hytanno",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}

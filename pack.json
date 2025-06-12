@@ -1,9 +1,9 @@
 {
   "name": "Deadrising Original Soundtrack #22 Mall Music 3",
-  "description": "Mall Music 3 Ambiant.",
+  "description": Un thème culte tiré de Dead Rising — calme, jazzy, et étrangement apaisant... jusqu'à ce que tout dérape. L'esprit du mall dans votre menu Steam Deck.",
   "author": "Hytanno",
   "version": "v1.0",
-  "manifest_version": 2,
+  "manifest_version": 1,
   "music": true,
   "ignore": [],
   "mappings": {}
